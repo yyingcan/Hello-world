@@ -1,4 +1,4 @@
 Hello-world
 ===========
 
-firt project for test
+first project for test
